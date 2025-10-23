@@ -1,0 +1,8 @@
+# Ignore all files with a specific extension
+*.log 
+
+# Don't ignore this specific file
+!vip.log 
+
+# Ignore all files in the 'py_lib' directory
+py_lib/
